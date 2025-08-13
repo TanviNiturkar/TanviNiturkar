@@ -25,7 +25,7 @@ Short: AI-powered slide generator — generate presentations from text, export t
 ---
 
 ### Wanderlust — Airbnb Clone  
-![Wanderlust screenshot](https://raw.githubusercontent.com/TanviNiturkar/assets/main/Screenshot%202025-08-13%20210906.png)  
+![Wanderlust Demo GIF](https://raw.githubusercontent.com/TanviNiturkar/assets/main/Wanderlust-demo.gif) 
 **Demo:** https://wanderlust-svka.onrender.com · **Repo:** https://github.com/TanviNiturkar/wanderlust  
 Short: Full-stack rental listing app with CRUD, authentication, image upload, reviews & ratings.
 
