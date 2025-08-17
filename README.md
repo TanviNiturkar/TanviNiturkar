@@ -4,8 +4,7 @@
 > Seeking internships & freelance projects — available to start soon.  
 
 🔭 Currently: polishing MERN + Next.js projects and preparing for internships.  
-📫 Reach me: tanvipniturkar98@gmail.com · https://www.linkedin.com/in/tanvi-niturkar-57a3a5321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app · 
-
+📫 Reach me: tanvipniturkar93@gmail.com   LinkedIn : www.linkedin.com/in/tanvi-niturkar
 ---
 
 ## ⭐ Featured projects
