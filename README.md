@@ -3,7 +3,7 @@
 > Web developer (BTech) building AI-powered & full-stack apps.  
 > Seeking internships & freelance projects — available to start soon.  
 
-🔭 Currently: polishing MERN + Next.js projects and preparing for internships.  
+🔭 Currently: “Full Stack Developer Intern @ Cognifyz Technologies | MERN Stack | AI & SaaS Enthusiast 🚀”.  
 📫 Reach me: tanvipniturkar93@gmail.com   LinkedIn : www.linkedin.com/in/tanvi-niturkar
 ---
 
